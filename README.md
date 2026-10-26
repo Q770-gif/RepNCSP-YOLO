@@ -2,7 +2,7 @@
 
 > **RepNCSP-YOLO: a high-resolution semantic enhancement network for small object detection in UAV imagery**
 >
-> Yuhan Qi, Yutong Cao, Jianheng Zheng, Chengjie Lu, Yifan Yin, Zhuocheng Huang, WeiQi Hu, Li Shuai, Jialan Wu, Guangfa Tang\*
+> Yuhan Qi, Yutong Cao, Jianheng Zheng, Chengjie Lu, Yifan Yin, Zhuocheng Huang, Weiqi Hu, Li Shuai, Jialan Wu, Guangfa Tang\*
 >
 > School of Computing and Artificial Intelligence, Guangzhou Xinhua University, Dongguan, Guangdong, China
 >
